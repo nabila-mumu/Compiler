@@ -1,0 +1,9 @@
+abc "hello \t mew" def
+efg 
+"This is an example\
+of a multiline\
+string"
+//hello mew\
+mmumu mew\
+vya
+kumu
